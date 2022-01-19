@@ -1,6 +1,6 @@
 
 var InputYear, temp;
-function s()
+function CheckLeap()
 {
   InputYear = parseInt(document.getElementById("year").value);
   if(InputYear)
