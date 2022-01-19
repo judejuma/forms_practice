@@ -1,4 +1,3 @@
-
 var InputYear, temp;
 function CheckLeap()
 {
